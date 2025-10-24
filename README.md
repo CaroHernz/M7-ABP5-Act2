@@ -39,7 +39,7 @@ Esta aplicación demuestra las características y ventajas del Server Side Rende
 - **APIs externas** - JSONPlaceholder, Dog CEO API
 
 ## 📁 Estructura del Proyecto
-
+````
 actividad-ssr/
 ├── assets/
 │ └── css/
@@ -55,8 +55,7 @@ actividad-ssr/
 │ └── comparacion.vue # Tarea 2 - Comparación SSR
 ├── nuxt.config.ts # Configuración de Nuxt
 └── app.vue # Componente raíz
-
-text
+````
 
 ## 🏃‍♂️ Instalación y Ejecución
 
