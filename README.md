@@ -40,21 +40,21 @@ Esta aplicación demuestra las características y ventajas del Server Side Rende
 
 ## 📁 Estructura del Proyecto
 ````
-actividad-ssr/
+app/
 ├── assets/
 │ └── css/
-│ └── styles.css # Estilos personalizados con Bootstrap
+│ └── styles.css 			
 ├── components/
-│ └── Navbar.vue # Componente de navegación
+│ ├── Footer.vue
+│ └── Navbar.vue 	
 ├── layouts/
-│ └── default.vue # Layout principal
+│ └── default.vue 			# Layout principal
 ├── pages/
-│ ├── index.vue # Página de inicio
-│ ├── static-content.vue # Tarea 1 - Contenido estático
-│ ├── dynamic-data.vue # Tarea 3 - Datos dinámicos
-│ └── comparacion.vue # Tarea 2 - Comparación SSR
-├── nuxt.config.ts # Configuración de Nuxt
-└── app.vue # Componente raíz
+│ ├── index.vue 			# Página de inicio
+│ ├── static-content.vue 	# Tarea 1 - Contenido estático
+│ ├── dynamic-data.vue 		# Tarea 3 - Datos dinámicos
+│ └── comparacion.vue 		# Tarea 2 - Comparación SSR
+└── app.vue 				# Componente raíz
 ````
 
 ## 🏃‍♂️ Instalación y Ejecución
